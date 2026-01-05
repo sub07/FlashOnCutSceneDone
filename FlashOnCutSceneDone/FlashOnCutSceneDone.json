@@ -1,0 +1,8 @@
+{
+  "Author": "Sub07",
+  "Name": "Flash When Cutscene Done",
+  "InternalName": "FlashOnCutSceneDone",
+  "RepoUrl": "https://github.com/sub07/FlashOnCutSceneDone",
+  "Description": "Flash the game in taskbar when a cutscene ends and the game is unfocused.",
+  "Punchline": "Flash the game in taskbar when a cutscene ends and the game is unfocused."
+}

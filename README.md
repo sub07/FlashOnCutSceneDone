@@ -1,0 +1,1 @@
+Flash the game in taskbar when a cutscene ends and the game is unfocused.
